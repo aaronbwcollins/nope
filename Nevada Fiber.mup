@@ -60,15 +60,6 @@
         }
       }
     },
-    "7": {
-      "title": "Email Portal",
-      "id": 54,
-      "attr": {
-        "style": {
-          "background": "#ccffff"
-        }
-      }
-    },
     "1.5": {
       "title": "Contact",
       "id": 27,
@@ -153,20 +144,6 @@
             "style": {}
           }
         }
-      }
-    },
-    "-6": {
-      "title": "FAQ",
-      "id": 50,
-      "attr": {
-        "style": {
-          "background": "#3366ff"
-        },
-        "position": [
-          163.5,
-          -297,
-          27
-        ]
       }
     },
     "-1.5": {
@@ -334,6 +311,34 @@
           100.5,
           -392,
           26
+        ]
+      }
+    },
+    "-20.5": {
+      "title": "About Us",
+      "id": 62,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          194.21875,
+          186.81249999999977,
+          31
+        ]
+      }
+    },
+    "19.5": {
+      "title": "Email Portal",
+      "id": 54,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        },
+        "position": [
+          27.78125,
+          333.6874999999998,
+          32
         ]
       }
     }
