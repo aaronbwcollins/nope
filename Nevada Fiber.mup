@@ -1,0 +1,342 @@
+{
+  "title": "Nevada Fiber",
+  "id": 1,
+  "formatVersion": 2,
+  "resources": {},
+  "attr": {
+    "style": {}
+  },
+  "ideas": {
+    "2": {
+      "title": "Footer",
+      "id": 19,
+      "attr": {
+        "position": [
+          198.92382812500023,
+          132.00000000000023,
+          21
+        ],
+        "style": {
+          "background": "#00ccff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Legal Info",
+          "id": 20,
+          "ideas": {
+            "2": {
+              "title": "Privacy Policy",
+              "id": 34
+            },
+            "3": {
+              "title": "Acceptable Use Policy",
+              "id": 35
+            },
+            "4": {
+              "title": "Terms of SErvice",
+              "id": 47
+            }
+          }
+        },
+        "2": {
+          "title": "Support",
+          "id": 24,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Coverage Areas",
+          "id": 25,
+          "attr": {
+            "position": [
+              21.576171874999773,
+              94.99999999999977,
+              1
+            ],
+            "style": {}
+          }
+        }
+      }
+    },
+    "7": {
+      "title": "Email Portal",
+      "id": 54,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "1.5": {
+      "title": "Contact",
+      "id": 27,
+      "attr": {
+        "position": [
+          178.92382812500023,
+          -107.99999999999977,
+          20
+        ],
+        "style": {
+          "background": "#3366ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Contact Info",
+          "id": 39
+        },
+        "2": {
+          "title": "Office Address",
+          "id": 40
+        },
+        "3": {
+          "title": "Office Hours",
+          "id": 41
+        }
+      }
+    },
+    "-12": {
+      "title": "Support",
+      "id": 36,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          477.5,
+          -239,
+          29
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "How To Articles",
+          "id": 37,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Technical Support Contact Info",
+          "id": 38,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-13": {
+      "title": "Sign Up",
+      "id": 42,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          490.5,
+          -44,
+          30
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Sign Up Form",
+          "id": 44,
+          "attr": {
+            "position": [
+              117.07617187499977,
+              58.4375,
+              1
+            ],
+            "style": {}
+          }
+        }
+      }
+    },
+    "-6": {
+      "title": "FAQ",
+      "id": 50,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          163.5,
+          -297,
+          27
+        ]
+      }
+    },
+    "-1.5": {
+      "title": "F.A.Q.",
+      "id": 56,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          66.07617187499977,
+          -254.24999999999966,
+          23
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "How Fast Is my internet?",
+          "id": 57
+        },
+        "2": {
+          "title": "Why should I choose you?",
+          "id": 58
+        },
+        "3": {
+          "title": "What is Wireless Internet?",
+          "id": 59
+        },
+        "4": {
+          "title": "How  do I pay my bill?",
+          "id": 60
+        },
+        "5": {
+          "title": "How much is the installation?",
+          "id": 61
+        }
+      }
+    },
+    "-28": {
+      "title": "Home",
+      "id": 46,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          158.5,
+          454,
+          24
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Service Pricing",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "$50 for 50mbs",
+              "id": 18,
+              "attr": {
+                "position": [
+                  77,
+                  -118.75,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            },
+            "position": [
+              63.499999999999886,
+              -63.75,
+              5
+            ]
+          }
+        },
+        "2": {
+          "title": "Slider",
+          "id": 48,
+          "attr": {
+            "position": [
+              169.5000000000001,
+              37.5,
+              3
+            ],
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Quick Links",
+          "id": 51,
+          "attr": {
+            "position": [
+              17.000000000000114,
+              153.75,
+              4
+            ],
+            "style": {
+              "background": "#00ccff"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "Email",
+              "id": 53
+            },
+            "12": {
+              "title": "Wireless Internet",
+              "id": 52
+            }
+          }
+        }
+      }
+    },
+    "9.5": {
+      "title": "Business Site",
+      "id": 55,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "-38": {
+      "title": "Included with Service",
+      "id": 28,
+      "ideas": {
+        "1": {
+          "title": "Router",
+          "id": 29,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Wireless Antenna",
+          "id": 31
+        },
+        "3": {
+          "title": "Fast Speeds",
+          "id": 32
+        }
+      },
+      "attr": {
+        "position": [
+          -22.5,
+          460,
+          25
+        ],
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "0.75": {
+      "title": "Blog",
+      "id": 49,
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        },
+        "position": [
+          100.5,
+          -392,
+          26
+        ]
+      }
+    }
+  },
+  "links": []
+}
